@@ -1,3 +1,10 @@
+body {
+  background-image: url("background.jpg"); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
 /* Estilo para el contenedor de texto */
 .movie-description {
   max-height: calc(1.2em * 5); /* Ajusta el número de líneas máximas que deseas mostrar */
